@@ -2,6 +2,7 @@
 !*.rs
 !*.md
 !.gitignore
+!src/
 
 
 # Added by cargo
